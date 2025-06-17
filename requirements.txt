@@ -1,0 +1,12 @@
+streamlit
+langchain_groq
+langchain_community
+pypdf
+sentence-transformers
+python-dotenv
+langchain
+# langchain.embeddings import HuggingFaceEmbeddings
+# langchain.text_splitter import RecursiveCharacterTextSplitter
+# langchain.document_loaders import PyPDFLoader
+# langchain.indexes import VectorstoreIndexCreator
+# langchain.chains import RetrievalQA
